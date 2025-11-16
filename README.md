@@ -54,7 +54,7 @@ cd REACT-HOOKS.
 npm install
 npm run dev
 
-Recommended Learning Order
+Recommended Learning Order.
 
 Components & Props
 Event Handling
