@@ -24,7 +24,7 @@ This repo contains a series of small, focused projects demonstrating every major
 | 12 | **REACT-USEREF** | Accessing and controlling DOM elements with refs |
 | 13 | **REACT-HOOK-FORM** | Managing forms with validation and cleaner state |
 | 14 | **REACT-REDUX-TOOLKIT** | Scalable state management using Redux Toolkit |
-| 15 | **PasteApp** | Mini-project combining concepts learned |
+| 15 | **PasteApp** | Mini-project combining concepts learned |.
 
 ---
 
