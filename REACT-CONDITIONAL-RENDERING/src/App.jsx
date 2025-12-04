@@ -8,7 +8,7 @@ import LogoutBtn from './components/LogoutBtn'
 function App() {
   const [isLoggedIn, setLoggedin] = useState(true);
 
-//  Using if else statements
+
 
   if(isLoggedIn){
     return(
@@ -20,7 +20,7 @@ function App() {
     )
   }
 
-//  usinf ternery operator 
+
   return (
     <div>
       {isLoggedIn ? <LogoutBtn/> : <LoginBtn/>}
