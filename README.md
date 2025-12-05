@@ -8,7 +8,7 @@ This repo contains a series of small, focused projects demonstrating every major
 
 ## 📚 Topics Covered.
 
-| No. | Folder | Concept |.
+| No. | Folder | Concept |
 |-----|---------|----------|
 | 1 | **REACT-COMPONENTS-and-PROPS** | Core building blocks of React, data passing via props |
 | 2 | **REACT-CHILDREN-AND-FUNCTIONS** | Handling children, reusable components, and callbacks |
