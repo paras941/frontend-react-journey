@@ -16,7 +16,7 @@ This repo contains a series of small, focused projects demonstrating every major
 | 4 | **REACT-EVENT-HANDLING** | Handling user input and browser events |
 | 5 | **REACT-STATE-LIFTING** | Sharing state between components effectively |
 | 6 | **REACT-HOOKS** | Introduction to `useState`, `useEffect`, and core React hooks |
-| 7 | **REACT-useEFFECT-hook** | Lifecycle simulation and side effects |
+| 7 | **REACT-useEFFECT-hook** | Lifecycle simulation and side effects |.
 | 8 | **REACT-USECONTEXT-HOOK** | Global state using React Context API |
 | 9 | **REACT-USEREDUCER-hook** | Managing complex state logic with reducers |
 | 10 | **REACT-USEMEMO** | Performance optimization using memoization |
