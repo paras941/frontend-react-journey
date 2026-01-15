@@ -52,7 +52,7 @@ Navigate into any topic folder and run it:
 
 cd REACT-HOOKS.
 npm install
-npm run dev
+npm run dev.
 
 Recommended Learning Order.
 
