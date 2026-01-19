@@ -1,7 +1,7 @@
 # 🚀 React Journey
 
 A structured, hands-on roadmap to master **React** — from core fundamentals to advanced hooks and state management with **Redux Toolkit**.  
-This repository contains focused mini-projects and examples demonstrating each major React concept with real, runnable code.
+This repository contains focused mini-projects and examples demonstrating each major React concept with real, runnable code..
 
 ---
 
